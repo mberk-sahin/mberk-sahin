@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋🏻 Welcome to my GitHub!
 
-<!--
-**mberk-sahin/mberk-sahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏼‍💻 I am a fifth-year Ph.D. candidate at Purdue University, where I am a member of the Machine Intelligence and Networked Data Science Group (MINDS) and the Laboratory for Translational Imaging of Microcirculation (TIM). I am co-advised by [Prof. Abolfazl Hashemi](https://abolfazlh.github.io/) and [Prof. Behzad Sharif](https://medicine.iu.edu/research-centers/cardiovascular/research/microcirculation).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Links
+
+- 🏠 [Personal Website](https://mberk-sahin.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mehmet-berk-sahin/)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=_mWxdk8AAAAJ&hl=en&oi=ao)
+
+## 🔬 Research Interests
+- Diffusion Models and Applications to Inverse Problems
+- Optimization and Langevin Monte Carlo Sampling Theory
+- Vision Foundation Models for Medical Imaging
+- Multimodal Learning for 3D Medical Imaging
+
+## 📫 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mehmet-berk-sahin/) or explore my [projects!](https://mberk-sahin.github.io/publications/)
